@@ -270,7 +270,7 @@ This project is open-source and available for educational and research purposes.
 
 ## Author
 
-**Adhithyan**  
+**Adhithyan M**  
 GitHub: Adhithyan006
 
 ## Acknowledgments
@@ -286,3 +286,4 @@ This project utilizes the following open-source technologies:
 ---
 
 **Developed as part of advanced AI and machine learning studies**
+
